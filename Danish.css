@@ -62,13 +62,13 @@ a:hover {
 
 .contact-message {
     width: 40%;
-    margin: 60px auto 60px auto;
+    margin: 100px auto 60px auto;
 }
 
 .top-container {
     background-color: #564da2;
     position: relative;
-    padding-top: 100px;
+    padding-top: 300px;
 }
 
 .middle-container {
@@ -79,7 +79,7 @@ a:hover {
 .bottom-container {
     margin: 140px auto 0 auto;
     background-color: #66BFBF;
-    padding: 90px 0 20px;
+    padding: 50px 0 20px;
 
 }
 
