@@ -3,7 +3,9 @@ html {
   font-family: 'Lato', sans-serif;
   text-align: center;
 }
-
+.wow {
+  background: black;
+}
 .header {
   background:black;
 
