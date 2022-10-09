@@ -1,10 +1,10 @@
 div {
-    background-color: #e1d898;
+    background-color: #c618cb;
 }
 
 
 body {
-    color: #40514E;
+    color: #e3a4db;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -12,7 +12,7 @@ body {
 
 
 h1 {
-    color: #1c9837;
+    color: #ff00a6;
     line-height: 2;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-    color: #0e6720;
+    color: #a5b3a8;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
@@ -29,7 +29,7 @@ h2 {
 }
 
 h3 {
-    color: #11999E;
+    color: #71119e;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -38,7 +38,7 @@ p {
 }
 
 hr {
-    border: dotted #FFA500 6px;
+    border: dotted #ff3d3d 6px;
     border-bottom: none;
     width: 14%;
     margin: 100px auto;
