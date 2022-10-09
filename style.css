@@ -4,10 +4,26 @@ body {
     background-color: rgb(29, 29, 29);
     color: aliceblue;
     display: flex;
+    flex-direction: column;
     align-items: center;
     display: flex;
     width: 100%;
 }
+.navigation{
+    display: flex;
+    flex-direction: row;
+}
+.navigation ul{
+    
+    display: flex;
+    flex-direction: row;
+}
+.navigation ul li{
+    
+    margin: 20px;
+}
+
+
 .top-container > :last-child{
     display:inline-block;
     text-align: center;
@@ -26,4 +42,7 @@ body {
         );
 
     opacity: 0.72;
+ }
+ #grace {
+
  }
