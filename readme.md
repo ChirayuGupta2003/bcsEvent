@@ -1,1 +1,1 @@
-Welcome to our Web Dev workshop!!
+Welcome to TECHTOBER!!
