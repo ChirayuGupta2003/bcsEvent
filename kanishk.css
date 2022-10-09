@@ -105,7 +105,7 @@ a:hover {
 }
 
 .copyright {
-    color: #EAF6F6;
+    color: #d505fe;
     font-size: 0.75rem;
     padding: 20px 0px;
 }
@@ -124,7 +124,7 @@ a:hover {
 
 .btn {
     background: #11CDD4;
-    background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -webkit-linear-gradient(top, #09e741, #11999E);
     background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
     background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
     background-image: -o-linear-gradient(top, #11CDD4, #11999E);
