@@ -1,6 +1,7 @@
 
+
 div {
-    background-color: #E4F9F5;
+    background-color: #f9dcf7;
 }
 
 
@@ -46,14 +47,14 @@ hr {
 }
 
 a {
-    color: #11999E;
+    color: #f1b9ed;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
 }
 
 a:hover {
-    color: #EAF6F6;
+    color: #f1c9f1;
 }
 
 .intro {
