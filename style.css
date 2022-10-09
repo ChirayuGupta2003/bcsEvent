@@ -1,0 +1,48 @@
+
+body {
+    margin: 0;padding: 0;
+    background-color: rgb(29, 29, 29);
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+    width: 100%;
+}
+.navigation{
+    display: flex;
+    flex-direction: row;
+}
+.navigation ul{
+    
+    display: flex;
+    flex-direction: row;
+}
+.navigation ul li{
+    
+    margin: 20px;
+}
+
+
+.top-container > :last-child{
+    display:inline-block;
+    text-align: center;
+    justify-content: center;
+    width: 100%;
+    padding: 0 10px;
+    font-size: 2rem;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    transform: 
+        translatey(28px);
+    mask-image:
+        linear-gradient(
+            transparent 50%,
+            white 90%
+        );
+
+    opacity: 0.72;
+ }
+ #grace {
+
+ }

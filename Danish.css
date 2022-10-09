@@ -1,10 +1,10 @@
 div {
-    background-color: #8a519b;
+    background-color: #E4F9F5;
 }
 
 
 body {
-    color: #2c0550;
+    color: #40514E;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -12,7 +12,7 @@ body {
 
 
 h1 {
-    color: #0e0e11;
+    color: #66BFBF;
     line-height: 2;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
@@ -21,15 +21,15 @@ h1 {
 }
 
 h2 {
-    color: #66BFBF;
+    color: #da2798;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 
 h3 {
-    color: #11999E;
+    color: #e9173d;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -52,7 +52,7 @@ a {
 }
 
 a:hover {
-    color: #131414;
+    color: #1ecc38;
 }
 
 .intro {

@@ -1,10 +1,13 @@
+.heading {
+    background-color:rgb(255, 0, 43);
+}
 div {
-    background-color: #8a519b;
+    background-color: #041884;
 }
 
 
 body {
-    color: #2c0550;
+    color: #514740;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -12,7 +15,7 @@ body {
 
 
 h1 {
-    color: #0e0e11;
+    color: #bf9d66;
     line-height: 2;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
@@ -21,7 +24,7 @@ h1 {
 }
 
 h2 {
-    color: #66BFBF;
+    color: #bf666d;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
@@ -38,7 +41,7 @@ p {
 }
 
 hr {
-    border: dotted #FFA500 6px;
+    border: dotted #ff0000 6px;
     border-bottom: none;
     width: 14%;
     margin: 100px auto;
@@ -52,7 +55,7 @@ a {
 }
 
 a:hover {
-    color: #131414;
+    color: #010808;
 }
 
 .intro {
@@ -66,7 +69,7 @@ a:hover {
 }
 
 .top-container {
-    background-color: #E4F9F5;
+    background-color: #e7f9e4;
     position: relative;
     padding-top: 100px;
 }
@@ -140,7 +143,7 @@ a:hover {
 }
 
 .btn:hover {
-    background: #30E3CB;
+    background: #e330c2;
     background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
     background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
     background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
