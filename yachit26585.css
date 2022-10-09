@@ -2,12 +2,12 @@
     background-color:rgb(255, 0, 43);
 }
 div {
-    background-color: #840413;
+    background-color: #84044a;
 }
 
 
 body {
-    color: #514740;
+    color: #da762f;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -24,7 +24,7 @@ h1 {
 }
 
 h2 {
-    color: #bf666d;
+    color: #92bf66;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
@@ -32,7 +32,7 @@ h2 {
 }
 
 h3 {
-    color: #11999E;
+    color: #9e7111;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -81,7 +81,7 @@ a:hover {
 
 .bottom-container {
     margin: 140px auto 0 auto;
-    background-color: #66BFBF;
+    background-color: #bf6694;
     padding: 50px 0 20px;
 
 }
