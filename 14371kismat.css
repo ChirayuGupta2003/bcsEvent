@@ -1,5 +1,5 @@
 .heading{
-    background-color: blueviolet;
+    background-color: rgb(44, 62, 116);
 }
 div {
     background-color: #E4F9F5;
@@ -32,7 +32,7 @@ h2 {
 }
 
 h3 {
-    color: #11999E;
+    color: #3a1061;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -41,7 +41,7 @@ p {
 }
 
 hr {
-    border: dotted #FFA500 6px;
+    border: dotted #1e9a58 6px;
     border-bottom: none;
     width: 14%;
     margin: 100px auto;
