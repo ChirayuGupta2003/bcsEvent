@@ -1,5 +1,5 @@
 .heading{
-    background-color: rgb(44, 62, 116);
+    background-color: rgb(76, 213, 135);
 }
 div {
     background-color: #8da895;
@@ -15,7 +15,7 @@ body {
 
 
 h1 {
-    color: #921265;
+    color: #8c4373;
     line-height: 3;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
@@ -24,7 +24,7 @@ h1 {
 }
 
 h2 {
-    color: #16075a;
+    color: #6d5ac4;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
@@ -32,7 +32,7 @@ h2 {
 }
 
 h3 {
-    color: #3a1061;
+    color: #5422c0;
     font-family: 'Montserrat', sans-serif;
 }
 
