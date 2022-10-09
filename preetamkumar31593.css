@@ -1,5 +1,5 @@
 div {
-    background-color: #a19388;
+    background-color: #E4F9F5;
 }
 
 
@@ -12,7 +12,7 @@ body {
 
 
 h1 {
-    color: #0e0e11;
+    color: #66BFBF;
     line-height: 2;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
@@ -52,7 +52,7 @@ a {
 }
 
 a:hover {
-    color: #131414;
+    color: #EAF6F6;
 }
 
 .intro {
@@ -66,7 +66,7 @@ a:hover {
 }
 
 .top-container {
-    background-color: #E4F9F5;
+    background-color: #a9dad1;
     position: relative;
     padding-top: 100px;
 }
@@ -78,7 +78,7 @@ a:hover {
 
 .bottom-container {
     margin: 140px auto 0 auto;
-    background-color: #66BFBF;
+    background-color: #0d2222;
     padding: 50px 0 20px;
 
 }
@@ -127,7 +127,7 @@ a:hover {
     background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
     background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
     background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
-    background-image: -o-linear-gradient(top, #11CDD4, #11999E);
+    background-image: -o-linear-gradient(top, #77c4c7, #11999E);
     background-image: linear-gradient(to bottom, #11CDD4, #11999E);
     -webkit-border-radius: 8;
     -moz-border-radius: 8;
@@ -141,10 +141,10 @@ a:hover {
 
 .btn:hover {
     background: #30E3CB;
-    background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
-    background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -webkit-linear-gradient(top, #30E3CB, #abc7c3);
+    background-image: -moz-linear-gradient(top, #b8d4d1, #2BC4AD);
     background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
-    background-image: -o-linear-gradient(top, #30E3CB, #2BC4AD);
+    background-image: -o-linear-gradient(top, #30E3CB, #73daca);
     background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
     text-decoration: none;
 }
