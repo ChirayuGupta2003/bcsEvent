@@ -22,7 +22,7 @@ h1 {
 }
 
 h2 {
-    color: #66BFBF;
+    color: #661FBF;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
@@ -30,16 +30,16 @@ h2 {
 }
 
 h3 {
-    color: #11999E;
+    color: #16999E;
     font-family: 'Montserrat', sans-serif;
 }
 
 p {
-    line-height: 2;
+    line-height: 25;
 }
 
 hr {
-    border: dotted #FFA500 6px;
+    border: dotted #F6A900 6px;
     border-bottom: none;
     width: 14%;
     margin: 100px auto;
