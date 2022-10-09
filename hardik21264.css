@@ -4,7 +4,7 @@ div {
 
 
 body {
-    color: #2c9f45;
+    color: #0f4a1c;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -133,14 +133,14 @@ a:hover {
     -moz-border-radius: 8;
     border-radius: 8px;
     font-family: 'Montserrat', sans-serif;
-    color: #ffffff;
+    color: #aa3232;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
 }
 
 .btn:hover {
-    background: #30E3CB;
+    background: #222fac;
     background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
     background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
     background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
