@@ -2,7 +2,7 @@
     background-color: coral;
 }
 div {
-    background-color: #E4F9F5;
+    background-color: #dfe9e7;
 }
 
 
@@ -15,7 +15,7 @@ body {
 
 
 h1 {
-    color: #66BFBF;
+    color: #ba55e4;
     line-height: 2;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
@@ -24,7 +24,7 @@ h1 {
 }
 
 h2 {
-    color: #66BFBF;
+    color: #fbff12;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
@@ -32,7 +32,7 @@ h2 {
 }
 
 h3 {
-    color: #11999E;
+    color: #2754db;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -41,14 +41,14 @@ p {
 }
 
 hr {
-    border: dotted #FFA500 6px;
+    border: dotted #ffeb38 6px;
     border-bottom: none;
     width: 14%;
     margin: 100px auto;
 }
 
 a {
-    color: #11999E;
+    color: #008c91;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
