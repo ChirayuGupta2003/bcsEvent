@@ -45,7 +45,7 @@ hr {
 }
 
 a {
-    color: #11999E;
+    color: #fd7244;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
@@ -62,11 +62,11 @@ a:hover {
 
 .contact-message {
     width: 40%;
-    margin: 40px auto 60px auto;
+    margin: 60px auto 60px auto;
 }
 
 .top-container {
-    background-color: #E4F9F5;
+    background-color: #564da2;
     position: relative;
     padding-top: 100px;
 }
@@ -79,7 +79,7 @@ a:hover {
 .bottom-container {
     margin: 140px auto 0 auto;
     background-color: #66BFBF;
-    padding: 50px 0 20px;
+    padding: 90px 0 20px;
 
 }
 
