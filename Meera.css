@@ -1,6 +1,6 @@
 
     div {
-        background-color: rebeccapurple;
+        background-color: blue;
     }
     
     
@@ -149,4 +149,3 @@
         background-image: linear-gradient(to bottom, #30E3CB, #2BC4AD);
         text-decoration: none;
     }
-}
