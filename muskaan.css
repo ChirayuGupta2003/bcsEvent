@@ -2,7 +2,7 @@
     background-color: plum;
 }
 div {
-    background-color: mediumspringgreen;
+    background-color: navajowhite;
 }
 
 
@@ -15,16 +15,16 @@ body {
 
 
 h1 {
-    color: #66BFBF;
+    color: blueviolet;
     line-height: 2;
-    font-family: 'Sacramento', cursive;
+    font-family: 'Arial', cursive;
     font-size: 5.625rem;
     margin-top: 50px auto 0 auto;
 
 }
 
 h2 {
-    color: #66BFBF;
+    color: hotpink;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
@@ -32,7 +32,7 @@ h2 {
 }
 
 h3 {
-    color: #11999E;
+    color: gold;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -41,21 +41,21 @@ p {
 }
 
 hr {
-    border: dotted #FFA500 6px;
+    border: dotted orchid 6px;
     border-bottom: none;
     width: 14%;
     margin: 100px auto;
 }
 
 a {
-    color: #11999E;
+    color: yellowgreen;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
 }
 
 a:hover {
-    color: #EAF6F6;
+    color: indianred;
 }
 
 .intro {
@@ -108,7 +108,7 @@ a:hover {
 }
 
 .copyright {
-    color: #EAF6F6;
+    color: orange;
     font-size: 0.75rem;
     padding: 20px 0px;
 }
@@ -126,7 +126,7 @@ a:hover {
 }
 
 .btn {
-    background: #11CDD4;
+    background: darkorchid;
     background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
     background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
     background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
@@ -143,7 +143,7 @@ a:hover {
 }
 
 .btn:hover {
-    background: #30E3CB;
+    background: fuchsia;
     background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
     background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
     background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
