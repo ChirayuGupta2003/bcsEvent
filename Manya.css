@@ -38,7 +38,7 @@ p {
 }
 
 hr {
-    border: dotted #FFA500 6px;
+    border: dotted #b63232 6px;
     border-bottom: none;
     width: 14%;
     margin: 100px auto;
@@ -52,7 +52,7 @@ a {
 }
 
 a:hover {
-    color: #EAF6F6;
+    color: #119453;
 }
 
 .intro {
