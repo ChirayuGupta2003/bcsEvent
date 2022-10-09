@@ -1,13 +1,13 @@
 .heading {
-    background-color:rgb(255, 0, 43);
+    background-color:rgb(47, 255, 0);
 }
 div {
-    background-color: #84044a;
+    background-color: #248404;
 }
 
 
 body {
-    color: #da762f;
+    color: #875837;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -15,7 +15,7 @@ body {
 
 
 h1 {
-    color: #bf9d66;
+    color: #110c05;
     line-height: 2;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
@@ -24,7 +24,7 @@ h1 {
 }
 
 h2 {
-    color: #92bf66;
+    color: #101b05;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
@@ -32,7 +32,7 @@ h2 {
 }
 
 h3 {
-    color: #9e7111;
+    color: #080704;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -41,14 +41,14 @@ p {
 }
 
 hr {
-    border: dotted #ff0000 6px;
+    border: dotted #191313 6px;
     border-bottom: none;
     width: 14%;
     margin: 100px auto;
 }
 
 a {
-    color: #11999E;
+    color: #020505;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
