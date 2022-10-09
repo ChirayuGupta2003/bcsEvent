@@ -1,10 +1,10 @@
 div {
-    background-color: #d7e68b;
+    background-color: #a4dad8;
 }
 
 
 body {
-    color: #40e1c1;
+    color: #312109;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -12,7 +12,7 @@ body {
 
 
 h1 {
-    color: #1b3d69;
+    color: #63290f;
     line-height: 2;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-    color: #183c3c;
+    color: #da1b1b;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
@@ -29,7 +29,7 @@ h2 {
 }
 
 h3 {
-    color: #094a4d;
+    color: #abba0a;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -38,21 +38,21 @@ p {
 }
 
 hr {
-    border: dotted #FFA500 6px;
+    border: dotted #322307 6px;
     border-bottom: none;
     width: 14%;
     margin: 100px auto;
 }
 
 a {
-    color: #11999E;
+    color: #0c6b6e;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
 }
 
 a:hover {
-    color: #EAF6F6;
+    color: #0f9b9b;
 }
 
 .intro {
@@ -66,7 +66,7 @@ a:hover {
 }
 
 .top-container {
-    background-color: #E4F9F5;
+    background-color: #8aa4a0;
     position: relative;
     padding-top: 100px;
 }
@@ -78,7 +78,7 @@ a:hover {
 
 .bottom-container {
     margin: 140px auto 0 auto;
-    background-color: #66BFBF;
+    background-color: #d59ed2;
     padding: 50px 0 20px;
 
 }
@@ -105,7 +105,7 @@ a:hover {
 }
 
 .copyright {
-    color: #EAF6F6;
+    color: #ca20d3;
     font-size: 0.75rem;
     padding: 20px 0px;
 }
