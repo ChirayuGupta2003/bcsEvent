@@ -1,5 +1,5 @@
 div {
-    background-color: #E4F9F5;
+    background-color: seagreen;
 }
 
 
@@ -12,7 +12,7 @@ body {
 
 
 h1 {
-    color: #66BFBF;
+    color: blue;
     line-height: 2;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
@@ -21,7 +21,7 @@ h1 {
 }
 
 h2 {
-    color: #66BFBF;
+    color: blue;
     font-family: 'Montserrat', sans-serif;
     font-size: 2.5rem;
     font-weight: normal;
@@ -29,7 +29,7 @@ h2 {
 }
 
 h3 {
-    color: #11999E;
+    color: blue;
     font-family: 'Montserrat', sans-serif;
 }
 
@@ -38,21 +38,21 @@ p {
 }
 
 hr {
-    border: dotted #FFA500 6px;
+    border: dotted red 6px;
     border-bottom: none;
     width: 14%;
     margin: 100px auto;
 }
 
 a {
-    color: #11999E;
+    color: red;
     font-family: 'Montserrat', sans-serif;
     margin: 10px 20px;
     text-decoration: none;
 }
 
 a:hover {
-    color: #EAF6F6;
+    color: red;
 }
 
 .intro {
@@ -66,7 +66,7 @@ a:hover {
 }
 
 .top-container {
-    background-color: #E4F9F5;
+    background-color: red;
     position: relative;
     padding-top: 100px;
 }
@@ -78,7 +78,7 @@ a:hover {
 
 .bottom-container {
     margin: 140px auto 0 auto;
-    background-color: #66BFBF;
+    background-color: red;
     padding: 50px 0 20px;
 
 }
@@ -105,7 +105,7 @@ a:hover {
 }
 
 .copyright {
-    color: #EAF6F6;
+    color: red;
     font-size: 0.75rem;
     padding: 20px 0px;
 }
@@ -123,7 +123,7 @@ a:hover {
 }
 
 .btn {
-    background: #11CDD4;
+    background: red;
     background-image: -webkit-linear-gradient(top, #11CDD4, #11999E);
     background-image: -moz-linear-gradient(top, #11CDD4, #11999E);
     background-image: -ms-linear-gradient(top, #11CDD4, #11999E);
@@ -133,14 +133,14 @@ a:hover {
     -moz-border-radius: 8;
     border-radius: 8px;
     font-family: 'Montserrat', sans-serif;
-    color: #ffffff;
+    color: red;
     font-size: 20px;
     padding: 10px 20px 10px 20px;
     text-decoration: none;
 }
 
 .btn:hover {
-    background: #30E3CB;
+    background: red;
     background-image: -webkit-linear-gradient(top, #30E3CB, #2BC4AD);
     background-image: -moz-linear-gradient(top, #30E3CB, #2BC4AD);
     background-image: -ms-linear-gradient(top, #30E3CB, #2BC4AD);
