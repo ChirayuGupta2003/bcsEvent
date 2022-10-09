@@ -52,11 +52,11 @@ a {
 }
 
 a:hover {
-    color: #1ecc38;
+    color: #d1ee17;
 }
 
 .intro {
-    width: 30%;
+    width: 60%;
     margin: auto;
 }
 
@@ -66,7 +66,7 @@ a:hover {
 }
 
 .top-container {
-    background-color: #564da2;
+    background-color: #b2f11d;
     position: relative;
     padding-top: 300px;
 }
