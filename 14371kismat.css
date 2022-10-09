@@ -2,12 +2,12 @@
     background-color: rgb(44, 62, 116);
 }
 div {
-    background-color: #E4F9F5;
+    background-color: #8da895;
 }
 
 
 body {
-    color: #8a0f57;
+    color: #0e368c;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -15,7 +15,7 @@ body {
 
 
 h1 {
-    color: #ba1580;
+    color: #921265;
     line-height: 3;
     font-family: 'Sacramento', cursive;
     font-size: 5.625rem;
