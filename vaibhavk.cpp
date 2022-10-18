@@ -29,6 +29,9 @@ int main()
 {
     int n;
     cout << "enter size of array" << endl;
+    cout << "enter size of array" << endl;
+    cout << "enter size of array" << endl;
+    cout << "enter size of array" << endl;
     cin >> n;
     int *a = new int[n];
     for (int i = 0; i < n; i++)
