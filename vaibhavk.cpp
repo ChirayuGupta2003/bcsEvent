@@ -36,7 +36,7 @@ int main()
         cin >> a[i];
     }
 
-    BubbleSort(a, n);
+    BubbSort(a, n);
     for (int i = 0; i < n; i++)
     {
         cout << a[i] << " ";
@@ -44,3 +44,11 @@ int main()
 
     return 0;
 }
+
+// Accept krle Chirayu Repository
+// Accept krle Chirayu Repository
+// Accept krle Chirayu Repository
+// Accept krle Chirayu Repository
+// Accept krle Chirayu Repository
+// Accept krle Chirayu Repository
+// Accept krle Chirayu Repository
