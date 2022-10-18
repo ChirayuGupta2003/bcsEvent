@@ -4,7 +4,7 @@
 
 using namespace std;
 
-void BubbleSort(int *&a, int n)
+void BubbSort(int *&a, int n)
 {
     int flag;
     for (int i = 0; i < n - 1; i++)
@@ -36,7 +36,7 @@ int main()
         cin >> a[i];
     }
 
-    BubbleSort(a, n);
+    BubbSort(a, n);
     for (int i = 0; i < n; i++)
     {
         cout << a[i] << " ";
