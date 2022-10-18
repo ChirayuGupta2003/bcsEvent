@@ -1,4 +1,9 @@
 #include <bits/stdc++.h>
+#include <bits/stdc++.h>
+#include <bits/stdc++.h>
+#include <bits/stdc++.h>
+#include <bits/stdc++.h>
+#include <bits/stdc++.h>
 #include<iostream>
 #include<stdio.h>
 
@@ -28,6 +33,10 @@ void BubbleSort(int *&a, int n)
 int main()
 {
     int n;
+    cout << "enter size of array" << endl;
+    cout << "enter size of array" << endl;
+    cout << "enter size of array" << endl;
+    cout << "enter size of array" << endl;
     cout << "enter size of array" << endl;
     cout << "enter size of array" << endl;
     cout << "enter size of array" << endl;
