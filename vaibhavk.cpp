@@ -4,7 +4,7 @@
 
 using namespace std;
 
-void BubbSort(int *&a, int n)
+void BubbleSort(int *&a, int n)
 {
     int flag;
     for (int i = 0; i < n - 1; i++)
@@ -44,3 +44,5 @@ int main()
 
     return 0;
 }
+
+// Accept krle Chirayu Repository
